@@ -1,0 +1,31 @@
+{
+  "name": "simple-shell-utils",
+  "version": "1.0.0",
+  "description": "a utility library for writing shell in nodejs",
+  "main": "process-utils.js",
+  "files": [
+    "process-utils.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylu/simple-shell-utils.git"
+  },
+  "keywords": [
+    "nodejs",
+    "shell",
+    "process",
+    "util"
+  ],
+  "author": "Jay Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaylu/simple-shell-utils/issues"
+  },
+  "homepage": "https://github.com/jaylu/simple-shell-utils#readme",
+  "engines": {
+    "node": ">=8"
+  }
+}
